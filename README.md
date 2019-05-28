@@ -25,3 +25,6 @@ Python Module :
      -import datetime 
      -import datetime
      -import re
+
+# EXAMPLE RUNNING:
+![alt text](https://github.com/dlira2/Nutanix-image-replication-PC-PETOPE/blob/master/EXAMPLE_RUNNING.png?raw=true)
